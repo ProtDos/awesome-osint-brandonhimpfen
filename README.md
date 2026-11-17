@@ -50,6 +50,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Pipl](https://pipl.com/) – Commercial people search engine aggregating deep web data.
 - [BeenVerified](https://www.beenverified.com/) – Aggregated background checks and social data.
+- [TraceFind](https://tracefind.info/) – Find the accounts, profiles and data breaches linked to an email, phone number or username without notifying the person.
 - [Whoogle](https://github.com/benbusby/whoogle-search) – Self-hosted search engine that delivers Google results without tracking.
 
 ## Social Media Investigation
